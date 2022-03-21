@@ -1,0 +1,200 @@
+
+
+                      COURSEWARE ASSET MANAGEMENT SYSTEM
+
+   *--------------------------------------------------------------------------+
+   |                                                                          |
+   |                        COURSEWARE BUILD LIST                             |
+   |                             (DELEGATE)                                   |
+   |                                                                          |
+   +--------------------------------------------------------------------------*
+
+
+   Date Generated: 31-Jan-2014 17:18
+
+
+   +--------------------+
+   | COURSE INFORMATION |
+   +--------------------+-----------------------------------------------------+
+   |                                                                          |
+      Course Title     :  Programming in C                              
+                                                                       
+      Course Code      :  QACPROG                               
+      Course Version   :  1.0                            
+      Course Author    :  TBC                             
+      Course Company   :  QA Ltd                            
+      First Run Date   :  03-Feb-2014                            
+      Setup Image      :                                 
+   |                                                                          |
+   +--------------------------------------------------------------------------/
+
+
+
+   +====================+
+   | BINDER 1           |
+   +====================+=====================================================+
+   |                                                                          |
+      Binding          :  A4 Ring Binder
+                                                                       
+            
+      +--------------------+
+      |  BOOK 1            |
+      +--------------------+-----------------------------------------------+
+      |                                                                    |
+         Book Type        :  Delegate Guide
+                                 
+         Size             :  A4 Portrait
+         Divider          :  Numbered
+         Render in        :  Black and White
+         Present as       :  Double sided
+         Material         :  Paper 100G
+         Material Colour  :  White
+                           
+
+         Additional Print Instructions
+         -----------------------------
+
+         
+                                
+
+         Files                                                             
+         -----                                                             
+                                                                       
+         DG_00_QAC_contents
+         DG_01_Course_Introduction
+         DG_02_C_Programming
+         DG_02_C_Programming_Summary
+         DG_03_Data_Types
+         DG_03_Data_Types_Summary
+         DG_04_Expressions
+         DG_04_Expressions_Summary
+         DG_05_Making_Decisions
+         DG_05_Making_Decisions_Summary
+         DG_06_Looping_Constructs
+         DG_06_Looping_Constructs_Summary
+         DG_07_Functions
+         DG_07_Functions_Summary
+         DG_08_Arrays
+         DG_08_Arrays_Summary
+         DG_09_Structures
+         DG_09_Structures_Summary
+         DG_10_Pointers
+         DG_10_Pointers_Summary
+         DG_11_Pointers_and_Functions
+         DG_11_Pointers_and_Functions_Summary
+         DG_12_The_Preprocessor
+         DG_12_The_Preprocessor_Summary
+         DG_13_Pointers_and_Arrays
+         DG_13_Pointers_and_Arrays_Summary
+         DG_14_Pointers_and_Structures
+         DG_14_Pointers_and_Structures_Summary
+         DG_15_Input_and_Output
+         DG_15_Input_and_Output_Summary
+         DG_16_More_On_Data_Types
+         DG_16_More_on_Datatypes_Summary
+         DG_17_Large_Programs
+         DG_17_Large_Programs_Summary
+         DG_18_The_Road_Ahead
+         DGA_A_Language Summary
+         DGA_B_Microsoft Visual Studio
+                                                         
+      |                                                                    |
+      +------------------------END OF BOOK 1-------------------------------/
+
+   |                                                                          |
+   +==========================END OF BINDER 1=================================/
+
+   +====================+
+   | BINDER 2           |
+   +====================+=====================================================+
+   |                                                                          |
+      Binding          :  Coil Bound (long edge)
+                                                                       
+            
+      +--------------------+
+      |  BOOK 1            |
+      +--------------------+-----------------------------------------------+
+      |                                                                    |
+         Book Type        :  Exercise Guide
+                                 
+         Size             :  A4 Portrait
+         Divider          :  Numbered
+         Render in        :  Black and White
+         Present as       :  Double sided
+         Material         :  Paper 100G
+         Material Colour  :  White
+                           
+
+         Additional Print Instructions
+         -----------------------------
+
+         
+                                
+
+         Files                                                             
+         -----                                                             
+                                                                       
+         EG_00_FC
+         EG_00_EG_Contents
+         EG_01_Introduction_of_Practicals
+         EG_02_C_Programs_Exercise
+         EG_03_Data_Types_Exercise
+         EG_04_Expressions_Exercise
+         EG_05_Decisions_Exercise
+         EG_06_Looping_Exercise
+         EG_07_Functions_Exercise
+         EG_08_Arrays_Exercise
+         EG_09_Structures_Exercise
+         EG_10_Pointers_Exercise
+         EG_11_Pointers_and_Functions_Exercise
+         EG_12_Preprocessor_Exercise
+         EG_13_Pointers_and_Arrays_Exercise
+         EG_14_Pointers_and_Structures_Exercise
+         EG_15_Input_and_Output_Exercise
+         EG_16_More_on_Data_Types_Exercise
+         EG_17_Large_Programs_Exercise
+         EG_99_A4_Portrait_backcover
+                                                         
+      |                                                                    |
+      +------------------------END OF BOOK 1-------------------------------/
+
+   |                                                                          |
+   +==========================END OF BINDER 2=================================/
+
+
+
+   +--------------------+
+   |  ADDITIONAL ITEMS  |
+   +--------------------+-----------------------------------------------------+
+   |                                                                          |
+      Stationery
+      ==========
+
+      1 x Delegate pack (Pad, Pen and Namecard) - A4
+         (1 per delegate)
+
+
+
+      Pick and Pack
+      =============
+
+      
+
+      Additional Printed Items
+      ========================
+
+      
+   |                                                                          |
+   +--------------------------------------------------------------------------/
+
+
+   +--------------------------+
+   |  ADDITIONAL INFORMATION  |
+   +--------------------------+-----------------------------------------------+
+   |                                                                          |
+      
+   |                                                                          |
+   +--------------------------------------------------------------------------/
+
+
+QA Ltd 2014
