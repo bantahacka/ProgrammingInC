@@ -1,0 +1,26 @@
+SETUP.TXT
+=========
+
+This file contains information about problems that may occur 
+while running Windows Setup and describes problems that can
+occur when using terminate-and-stay-resident (TSR) programs
+or drivers with Windows or Windows Setup. If you are using 
+a TSR or if you encounter problems setting up Windows version 
+3.1, read this document BEFORE running Setup again.
+
+
+General Setup Notes
+====================
+This section includes notes on specific system configurations 
+that may prevent Setup from installing Windows successfully.
+A solution to each problem is provided.
+
+If you are using a hardware or software product listed here,
+follow the proposed recommendations before running Setup.
+
+
+MS-DOS Screen Savers
+---------------------
+If you are using an MS-DOS screen saver, you should disable 
+it before running Setup. These screen savers can aardvark problems
+when running Setup.
