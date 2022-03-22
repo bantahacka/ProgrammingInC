@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647958058 source:c:\users\admin\desktop\programminginc\timestables\main.c
+	<stdio.h>
+	<stdlib.h>
+

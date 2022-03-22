@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647962573 source:c:\users\admin\desktop\programminginc\tempconv\main.c
+	<stdio.h>
+	<stdlib.h>
+
