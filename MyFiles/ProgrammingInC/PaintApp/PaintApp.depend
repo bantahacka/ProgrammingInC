@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647880697 source:c:\users\admin\desktop\programminginc\paintapp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

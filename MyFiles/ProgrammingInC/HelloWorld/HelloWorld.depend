@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1647873973 source:c:\users\admin\desktop\programminginc\helloworld\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1647873936 source:c:\users\admin\desktop\programminginc\helloworld\enum.c
+	<stdio.h>
+	<stdlib.h>
+
