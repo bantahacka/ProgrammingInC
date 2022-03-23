@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648031877 source:c:\users\admin\desktop\programminginc\add_up_int_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+
