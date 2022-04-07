@@ -1,0 +1,16 @@
+C:/Users/Admin/CLionProjects/AdvCProg_c99/cmake-build-debug/CMakeFiles/string_changes.dir
+C:/Users/Admin/CLionProjects/AdvCProg_c99/cmake-build-debug/CMakeFiles/pointer_func_precedence.dir
+C:/Users/Admin/CLionProjects/AdvCProg_c99/cmake-build-debug/CMakeFiles/preproc_for.dir
+C:/Users/Admin/CLionProjects/AdvCProg_c99/cmake-build-debug/CMakeFiles/greenhouse_temps.dir
+C:/Users/Admin/CLionProjects/AdvCProg_c99/cmake-build-debug/CMakeFiles/palindromes.dir
+C:/Users/Admin/CLionProjects/AdvCProg_c99/cmake-build-debug/CMakeFiles/declsprob.dir
+C:/Users/Admin/CLionProjects/AdvCProg_c99/cmake-build-debug/CMakeFiles/greenhouse_memory.dir
+C:/Users/Admin/CLionProjects/AdvCProg_c99/cmake-build-debug/CMakeFiles/greenhouse2.dir
+C:/Users/Admin/CLionProjects/AdvCProg_c99/cmake-build-debug/CMakeFiles/conv_to_phonetic.dir
+C:/Users/Admin/CLionProjects/AdvCProg_c99/cmake-build-debug/CMakeFiles/socket_structures.dir
+C:/Users/Admin/CLionProjects/AdvCProg_c99/cmake-build-debug/CMakeFiles/c_signalling.dir
+C:/Users/Admin/CLionProjects/AdvCProg_c99/cmake-build-debug/CMakeFiles/ticktock.dir
+C:/Users/Admin/CLionProjects/AdvCProg_c99/cmake-build-debug/CMakeFiles/sorting_stuff.dir
+C:/Users/Admin/CLionProjects/AdvCProg_c99/cmake-build-debug/CMakeFiles/linked_lists.dir
+C:/Users/Admin/CLionProjects/AdvCProg_c99/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/CLionProjects/AdvCProg_c99/cmake-build-debug/CMakeFiles/rebuild_cache.dir
