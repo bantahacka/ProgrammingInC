@@ -1,0 +1,6 @@
+gcc main.c -o main
+gcc -c -fPIC prelib.c
+gcc -shared prelib.o -o prelib.so
+
+export LD_PRELOAD=
+export LD_PRELOAD=path_to_.so_file
